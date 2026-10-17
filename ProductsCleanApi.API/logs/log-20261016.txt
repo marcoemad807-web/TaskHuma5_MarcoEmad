@@ -1,0 +1,5 @@
+2026-10-16 13:42:06.361 +03:00 [INF] Now listening on: https://localhost:7129
+2026-10-16 13:42:06.466 +03:00 [INF] Now listening on: http://localhost:5065
+2026-10-16 13:42:06.679 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-16 13:42:06.682 +03:00 [INF] Hosting environment: Development
+2026-10-16 13:42:06.686 +03:00 [INF] Content root path: D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.API
