@@ -1,0 +1,12 @@
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\bin\Debug\net10.0\ProductsCleanApi.Domain.deps.json
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\bin\Debug\net10.0\ProductsCleanApi.Domain.dll
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\bin\Debug\net10.0\ProductsCleanApi.Domain.pdb
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.AssemblyInfoInputs.cache
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.AssemblyInfo.cs
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.csproj.CoreCompileInputs.cache
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.dll
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\refint\ProductsCleanApi.Domain.dll
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ProductsCleanApi.Domain.pdb
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\ref\ProductsCleanApi.Domain.dll
+D:\Task 3\ProductsCleanApi\src\ProductsCleanApi.Domain\obj\Debug\net10.0\Products.F3F0E3CB.Up2Date
